@@ -14,3 +14,6 @@
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 .prettierignore
+
+#i know using npm is not necesary for this proyect but i'm using a CSS RESET i just found and i think it's interesting!
+node_modules

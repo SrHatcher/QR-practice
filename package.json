@@ -1,0 +1,22 @@
+{
+  "name": "qr-component",
+  "version": "1.0.0",
+  "description": "practicing my skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrHatcher/QR-practice.git"
+  },
+  "author": "SrHatcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrHatcher/QR-practice/issues"
+  },
+  "homepage": "https://github.com/SrHatcher/QR-practice#readme",
+  "devDependencies": {
+    "modern-css-reset": "^1.4.0"
+  }
+}
