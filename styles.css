@@ -57,3 +57,10 @@ body{
 
     color: var(--secondary-color);
 }
+
+@media  screen and (max-width: 500px) {
+    .qr{
+        width: 100%;
+        border-radius: 0;
+    }
+}
