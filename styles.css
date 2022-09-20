@@ -41,7 +41,7 @@ body{
 
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
-    font-size: 2.3rem;
+    font-size: 2.1rem;
     text-align: center;
 
     color: var(--primary-color);
@@ -53,7 +53,7 @@ body{
     font-family: 'Outfit', sans-serif;
     text-align: center;
     font-weight: 400;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
 
     color: var(--secondary-color);
 }
